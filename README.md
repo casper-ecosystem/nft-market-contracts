@@ -2,9 +2,9 @@
 This project is an NFT Marketplace that allows users to mint, list, make offers & purchase NFTs.
 
 There are 3 repositories:\
-[nft-market-contracts](https://github.com/sfeast/nft-market-contracts) - current repository, contains Casper smart contracts & tests.\
-[nft-market-client](https://github.com/sfeast/nft-market-client) - a React based front end to the marketplace\
-[nft-market-server](https://github.com/sfeast/nft-market-server) - a Node.js server for the marketplace.
+[nft-market-contracts](https://github.com/casper-ecosystem/nft-market-contracts) - current repository, contains Casper smart contracts & tests.\
+[nft-market-client](https://github.com/casper-ecosystem/nft-market-client) - a React based front end to the marketplace\
+[nft-market-server](https://github.com/casper-ecosystem/nft-market-server) - a Node.js server for the marketplace.
 
 # Contracts
 There are 2 contracts included:
